@@ -11,7 +11,7 @@ I have recently started my coding journey, after finding opportunities for autom
 
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [jorgen.th.eilertsen@gmail.com](mailto:jorgen.th.eilertsen@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm currently learing AWS
 
 ### Skills
 

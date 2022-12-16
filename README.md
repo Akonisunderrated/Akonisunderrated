@@ -12,8 +12,6 @@ One of my apps is estimated to save the company 360 hours per year ⚡ By simply
 
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [jorgen.th.eilertsen@gmail.com](mailto:jorgen.th.eilertsen@gmail.com)
-* 💻  You can read more about me at [jorgen.click](https://www.jorgen.click)
-* 🧠  I'm currently learing AWS
 
 ### Skills
 

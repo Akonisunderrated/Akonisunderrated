@@ -1,14 +1,13 @@
-Free Palestine!
-
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jørgen Eilertsen
-========================================================================================================================================
+---
 
 Data Analyst
-------------
+---
+Learning development.
 
-I have made several desktop apps for automation and efficiency in my work, using python🐍 Including GUI with CTK, and automated windows service.
-One of my apps is estimated to save the company 360 hours per year ⚡ By simply making it easier to find files quickly.
+I have made python apps for automation and efficiency in my work, using python🐍
+One of my apps is estimated to save the company hundereds of hours each year ⚡ By simply making it easier to find files quickly.
 
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [jorgen.th.eilertsen@gmail.com](mailto:jorgen.th.eilertsen@gmail.com)

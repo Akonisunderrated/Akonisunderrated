@@ -1,12 +1,11 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jørgen Eilertsen
----
 
 Data Analyst
 ---
-Learning development.
+Currently learning programming and development
 
-I have made python apps for automation and efficiency in my work, using python🐍
+I have made scripts and programs for automation and efficiency in my work, using python🐍
 One of my apps is estimated to save the company hundereds of hours each year ⚡ By simply making it easier to find files quickly.
 
 * 🌍  I'm based in Oslo, Norway
